@@ -1,0 +1,17 @@
+
+## Frontend
+
+Basta acessar a pasta ./frontend e rodar os comandos abaixo
+### `yarn install`
+### `yarn start`
+
+## Backend
+
+Basta acessar a pasta ./backend e rodar os comandos abaixo
+Aplicação usa o banco nosql mongodb, segue comando para subir o banco com docker
+### docker run --name mongodb -p 27017:27017 -d mongo
+### `yarn install`
+### `yarn server`
+
+
+[http://localhost:3000](http://localhost:3000)
